@@ -9,7 +9,7 @@ Below the details about my skills and my projects.
 
 # Skills
 ## Theory and Practice
-### Languages and respective Frameworks, Libraries etc...
+### Languages and respective Frameworks, main Libraries etc...
 
 - HTML
 - CSS
