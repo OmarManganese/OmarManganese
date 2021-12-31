@@ -1,5 +1,5 @@
 # About me
-Hi everyone, I'm Omar Manganese and I'm a **Full Stack Developer** principally in the **MERN** stack (**MongoDB**, **Express.js**, **React.js**, **Node.js**) but also **PHP**(with **Laravel**) and **MySQL** for the backend.
+Hi everyone, I'm Omar Manganese and I'm a **Junior Full Stack Developer** with main focus in the **MERN** stack (**MongoDB**, **Express.js**, **React.js**, **Node.js**) but also **PHP**(with **Laravel**) and **MySQL** for the backend.
 
 I learned my skills mostly on the online course for web development at [Start2Impact](https://www.start2impact.it/)
 
